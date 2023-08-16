@@ -1,0 +1,26 @@
+{
+  "name": "check-bill",
+  "version": "1.0.0",
+  "description": "## Purpose",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taras-protsyshyn/check-bill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taras-protsyshyn/check-bill/issues"
+  },
+  "homepage": "https://github.com/taras-protsyshyn/check-bill#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
